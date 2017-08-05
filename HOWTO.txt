@@ -1,0 +1,25 @@
+
+To install (ON UNIX / LINUX based systems only):
+
+1. Just extract all files into current working directory, and run make in that directory.
+2. DO not attempt to modify any files. Just set execute permission on peer1_script and peer2_script if not already present.
+
+To run:
+
+just run the following in your present working directory (in two separate terminal windows):
+
+./peer1_script (in one of the windows)
+
+./peer2_script (in another terminal window)
+
+Thank you for taking the time to install and run my project. Hope you like it. Enjoy !
+
+
+
+Regards,
+
+Venkata Girish Kumar Yanamandram
+
+
+
+
